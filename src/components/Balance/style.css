@@ -1,0 +1,54 @@
+.balance {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  max-width: 350px;
+  min-width: 100%;
+}
+
+.contents-2 {
+  height: 100px;
+  display: flex;
+  align-content: center;
+  align-items: center;
+  background: #fff;
+  margin-right: 20px;
+  padding-left: 20px;
+  flex-direction: column;
+}
+
+.content-21,
+.content-22 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background: none;
+  width: 100%;
+}
+
+.content-text-2 {
+  flex-direction: column;
+  background: none;
+  margin-left: 30px;
+}
+
+.svg-up {
+  background: none;
+  color: green;
+}
+
+.svg-down {
+  background: none;
+  color: red;
+}
+
+h4 {
+  background: none;
+  font-size: 18px;
+}
+
+.text-h3 {
+  color: #9ba8c6;
+  font-size: 15px;
+}

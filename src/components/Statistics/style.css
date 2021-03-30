@@ -1,0 +1,34 @@
+.statistics {
+  margin-top: 20px;
+}
+
+.canvas-img {
+  margin-left: 15px;
+}
+
+.canvas-content {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.datas-content {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+  height: 130px;
+  width: 130px;
+  margin-right: 50px;
+}
+
+.total-patients {
+  color: #9ba8c6;
+}
+
+h3,
+h2 {
+  background: none;
+}

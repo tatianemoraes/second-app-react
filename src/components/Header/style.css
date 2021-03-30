@@ -1,0 +1,65 @@
+.header {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 65px;
+  background: #fff;
+}
+
+.btns-text {
+  background: #fff;
+}
+
+.btn-add {
+  font-size: 15px;
+  background: #2fbfc1;
+  color: #fff;
+  height: 30px;
+  width: 95px;
+}
+
+.btn-treatments,
+.btn-doctor,
+.btn-help {
+  font-size: 15px;
+  background: #fff;
+  color: #000;
+  height: 30px;
+  width: 95px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn-help {
+  margin-left: -18px;
+}
+
+.btn-treatments {
+  margin-left: 15px;
+}
+
+.btns-icon {
+  margin-left: 15px;
+  background: none;
+}
+
+.btn-equalizer,
+.btn-message,
+.btn-notifications {
+  background: #fff;
+  color: gray;
+  border-left: solid 1px gray;
+  padding-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.svg-background {
+  background: none;
+}
